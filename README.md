@@ -36,6 +36,15 @@ Attempts: 1
 ```
 
 try again!")
+
+## Project Structure
+
+number-guessing-game/
+│
+├── inc_pattern.py 
+├── README.md 
+├── .gitignore 
+└── LICENSE 
 ```
 
 ## License
